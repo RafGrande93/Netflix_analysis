@@ -56,10 +56,6 @@ The primary goals are:
   ```bash
   jupyter notebook notebooks/netflix_analysis.ipynb
   ```
-- **Or run end-to-end script** after refactoring:
-  ```bash
-  python src/run_analysis.py
-  ```
 
 ## Repository Structure
 
