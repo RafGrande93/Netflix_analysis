@@ -63,10 +63,9 @@ The primary goals are:
 ├── LICENSE
 ├── README.md
 ├── requirements.txt
-├── data/
-│   └── netflix.csv
-├── notebooks/
-│   └── netflix_analysis.ipynb
+├── netflix.csv
+├── netflix_analysis.ipynb
+│ 
 ```
 
 ## Analysis Steps
