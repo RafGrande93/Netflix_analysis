@@ -34,7 +34,7 @@ The primary goals are:
   - `release_year`: Year of release
   - `user_rating_score`: Average user rating
   - `ratinglevel`: MPAA or TV rating category
-  - 'user_rating_size': Number of people who evalutate it
+  - `user_rating_size`: Number of people who evalutate it
 
 ## Installation
 
