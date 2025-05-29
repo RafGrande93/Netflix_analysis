@@ -14,10 +14,10 @@
 
 ## Project Overview
 
-This project explores trends in Netflix's catalog and builds predictive models to understand factors influencing user ratings. It is structured as an end-to-end data science pipeline:
+This project explores trends in Netflix's catalog and builds predictive models to understand factors influencing user ratings. The structure of the project is:
 
 1. **Data Cleaning**
-2. **Exploratory Data Analysis (EDA)**
+2. **Data Analysis**
 3. **Feature Engineering & Modeling**
 4. **Conclusions**
 
@@ -40,7 +40,7 @@ The primary goals are:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/netflix-analysis.git
+   git clone https://github.com/RafGrande93/netflix-analysis.git
    cd netflix-analysis
    ```
 2. Create a virtual environment and install dependencies:
