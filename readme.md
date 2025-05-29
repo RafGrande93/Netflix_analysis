@@ -63,7 +63,7 @@ The primary goals are:
 
 ## Future Improvements
 
-- Incorporate additional features (genre, runtime etc... which are absent in the csv) to find a better regression model.
+- Incorporate additional features (genre, runtime etc... which are absent in the csv) to find a better regression model. 
 ## License
 
 This project is licensed under the [Apache License 2.0](LICENSE). Feel free to reuse and modify.
