@@ -4,8 +4,6 @@
 
 - [Project Overview](#project-overview)
 - [Data](#data)
-- [Installation](#installation)
-- [Usage](#usage)
 - [Repository Structure](#repository-structure)
 - [Analysis Steps](#analysis-steps)
 - [Key Findings](#key-findings)
@@ -36,26 +34,6 @@ The primary goals are:
   - `ratinglevel`: MPAA or TV rating category
   - `user_rating_size`: Number of people who evalutate it
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/RafGrande93/netflix-analysis.git
-   cd netflix-analysis
-   ```
-2. Create a virtual environment and install dependencies:
-   ```bash
-   python3 -m venv venv
-   source venv/bin/activate     # on Windows: venv\Scripts ctivate
-   pip install -r requirements.txt
-   ```
-
-## Usage
-
-- **Run the notebook**:
-  ```bash
-  jupyter notebook notebooks/netflix_analysis.ipynb
-  ```
 
 ## Repository Structure
 
